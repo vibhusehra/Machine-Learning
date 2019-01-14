@@ -6,3 +6,4 @@ This repository contains various machine learning algorithms and their implement
 <p>2) Logistic Regression</p>
 <p>3) Random Forests</p>
 <p>4) Decision Tree</p>
+<p>5) K Nearest Neighbors(KNN)</p>
