@@ -10,3 +10,7 @@ This repository contains various machine learning algorithms and their implement
 <p>6)Principle Component Analysis(PCA)(Dimensionality reduction Algorithm)</br>
     <ul><li>Cifar10(Image classification Project)</li></ul>
 </p>
+<p>7) Natural Language Processing(NLP)</br>
+    <ul><li>Movie Prediction</li></ul>
+<p>
+    
