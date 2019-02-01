@@ -11,6 +11,9 @@ This repository contains various machine learning algorithms and their implement
     <ul><li>Cifar10(Image classification Project)</li></ul>
 </p>
 <p>7) Natural Language Processing(NLP)</br>
-    <ul><li>Movie Prediction</li></ul>
+    <ul>
+        <li>Movie Prediction</li>
+        <li>Twitter Sentiment Analysis</li>
+    </ul>
 <p>
     
