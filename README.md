@@ -16,4 +16,10 @@ This repository contains various machine learning algorithms and their implement
         <li>Twitter Sentiment Analysis</li>
     </ul>
 <p>
+<p>
+    8) Neural Network
+    <ul>
+        <li>Single Layer Implementation</li>
+    </ul>
+</p>
     
