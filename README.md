@@ -26,6 +26,7 @@ This repository contains various machine learning algorithms and their implement
     9) CNN
     <ul>
         <li>MNIST using Keras</li>
+        <li>MNIST using Tensorflow</li>
     </ul>
  </p>
         
