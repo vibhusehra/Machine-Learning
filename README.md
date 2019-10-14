@@ -29,4 +29,5 @@ This repository contains various machine learning algorithms and their implement
         <li>MNIST using Tensorflow</li>
     </ul>
  </p>
+ <hr>
         
